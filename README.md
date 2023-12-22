@@ -7,7 +7,7 @@ I am a full stack developer
 * 🌍  I'm based in Poland.
 * 🖥️  See my portfolio at [mariusz42.ct8.pl](http://mariusz42.ct8.pl)
 * ✉️  You can contact me at [mariusz4044@gmail.com](mailto:mariusz4044@gmail.com)
-* 🚀  I'm currently working on [casino online](http://margostar.pl/)
+* 🚀  I'm currently working on [margostar.pl](http://margostar.pl/) and [margocasino.pl](http://margocasino.pl/)
 * 🤝  I'm open to collaborating on any projects.
 * ⚡  I have been coding in JavaScript as a hobby for 5 years.
 
