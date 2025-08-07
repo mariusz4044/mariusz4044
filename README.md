@@ -1,4 +1,4 @@
-Hi 👋 My name is Mariusz
+Hi 👋
 ========================
 
 I am a full stack developer
