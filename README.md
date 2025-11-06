@@ -4,8 +4,7 @@ Hi!
 I am a full stack developer
 ---------------------------
 
-*   See my portfolio at [mportfolio2025.netlify.app](https://mportfolio2025.netlify.app/)
-*   You can contact me at [mariusz4044@gmail.com](mailto:mariusz4044@gmail.com)
+*   You can contact me at [kontakt@avadi.ovh](mailto:kontakt@avadi.ovh)
 *   I'm open to collaborating on any projects.
 *   I have been coding in JavaScript as a hobby for 5 years.
 
