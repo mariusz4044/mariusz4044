@@ -9,11 +9,11 @@ I am a full stack developer
 *   I have been coding in JavaScript as a hobby for 5 years.
 
 ### 🖥️ Frontend
--  **Vue** 2/3
 -  **React** (hooks)
 -  **Next.js** + SWR
 -  **TailwindCSS**
 -  **TypeScript**
+-  **Vue** 2/3
 
 ### 🔧 Backend
 -  **Express.js**
@@ -22,3 +22,4 @@ I am a full stack developer
 -  **MongoDB** (Mongoose)
 -  **Playwright**
 -  **Puppeteer**
+-  **Bun**
